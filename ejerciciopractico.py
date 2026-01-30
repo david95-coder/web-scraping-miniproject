@@ -1,3 +1,10 @@
+"""
+Web Scraping Mini Project
+Scrapes all 4 and 5 star rated books from books.toscrape.com
+Author: David Guerrero
+"""
+
+
 import requests
 import bs4
 
